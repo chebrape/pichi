@@ -1,2 +1,2 @@
 # pichi
-Acá tengo lo tengo y puedo lo quiero
+Acá tengo lo que tengo y puedo lo que quiero
