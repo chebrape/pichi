@@ -12,12 +12,12 @@ Firme está de la rcsm. Algunos de los que más me agradaron se encuentran en la
 
 Ahora, para los colores; oh yas:
 
-  #> Hex colors:      https://htmlcolorcodes.com/
+  > Hex colors:      https://htmlcolorcodes.com/
   
 
 Recuerda que utilizas Qtile, y debes saber usarlo perro:
 
-  #> Qtile confg.:    https://docs.qtile.org/
+  > Qtile confg.:    https://docs.qtile.org/
   
   
 ¡YOU GOT IT BIAAATCH!
